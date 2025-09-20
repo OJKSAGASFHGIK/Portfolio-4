@@ -8,8 +8,6 @@ import {
 import HomeEnUs from './Home_en-us/HomeEnUs.jsx';
 import HomePtBr from './Section_pt-br/HomePtBr.jsx';
 
-
-
 function App() {
   return (
     <Router><Routes>
