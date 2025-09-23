@@ -9,7 +9,7 @@ function SProjects({theme="sTheme", myId="idProjects"}){
                 <div>
                     <div>
                         <h3>Projetos:</h3>
-                        <p className='small'><strong>Obs: Acesse link de projetos por um desktop</strong> <br/><em>Tópicos voltados para utilidade e didática</em></p>
+                        <p className='small'><em>Tópicos voltados a utilidade e didática</em></p>
                     </div>
                     <div className='row row-cols-md-3 row-cols-sm-2 row-cols-1' >
                         <a href='https://gre-commerce.vercel.app/' target='_blank' className="col">

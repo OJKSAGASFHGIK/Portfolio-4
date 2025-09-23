@@ -8,8 +8,8 @@ function SProjects({theme="sTheme", myId="idProjects"}){
             <section id={myId} className={`container-fluid ${theme} sProjects`}>
                 <div>
                     <div>
-                        <h3>Projetos:</h3>
-                        <p className='small'><strong>Obs: Acesse link de projetos por um desktop</strong> <br/><em>Tópicos voltados para utilidade e didática</em></p>
+                        <h3>Projects:</h3>
+                        <p className='small'><em>Topics focused on usefulness and didactics</em></p>
                     </div>
                     <div className='row row-cols-md-3 row-cols-sm-2 row-cols-1' >
                         <a href='https://gre-commerce.vercel.app/' target='_blank' className="col">
