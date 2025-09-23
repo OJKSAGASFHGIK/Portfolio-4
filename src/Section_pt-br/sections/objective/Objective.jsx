@@ -11,7 +11,7 @@ function Objective({theme="sTheme", myId="idObjective"}){
                         lógica de programação. A partir de novembro, comecei a me especializar mais na área de front-end, e ao
                         longo do tempo, aprofundei meu conhecimento em diversos conceitos de diferentes linguagens.
                         <br/><br/>
-                        Meu objetivo profissional é aprimorar continuamente minhas habilidades como desenvolvedor e construir
+                        Meu objetivo profissional é aprimorar continuamente minhas habilidades como desenvolvedora e construir
                         interfaces úteis e agradáveis. No entanto, não estou buscando oportunidades exclusivamente nessa área no
                         momento, e estou aberta a novas possibilidades de trabalho.
                     </p>

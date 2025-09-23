@@ -115,17 +115,21 @@ section.Skills { padding-top: var(--paddingTop); }
 /* Projects */
 section.sProjects { padding-top: var(--paddingTop); }
 /**/
-section.sProjects.sTheme a { color: var(--sLinkColor); transition: 243ms all ease-in-out; }
-section.sProjects.sTheme a:hover { color: var(--sLinkColorT); transition: 243ms all ease-in-out; }
+section.sProjects.sTheme .color { color: var(--sLinkColor); transition: 243ms all ease-in-out transform 0.3s; }
+section.sProjects.sTheme .color:hover,
+section.sProjects.sTheme .color:focus
+{ color: var(--sLinkColorT); transition: 243ms all ease-in-out; transform: scale(1.02);}
 
-section.sProjects.sTheme article { background: var(--sBackgroundTable2);
-    border: 1px solid var(--bBorder); margin-bottom: 21px; padding: 9px; }
+section.sProjects.sTheme .color { background: var(--bBackground);
+    border: 1px solid var(--bBorder); margin-bottom: 21px; padding: 3px; }
 /**/
-section.sProjects.bTheme a { color: var(--bLinkColor); transition: 243ms all ease-in-out; }
-section.sProjects.bTheme a:hover { color: var(--bLinkColorT); transition: 243ms all ease-in-out; }
+section.sProjects.bTheme .color { color: var(--sLinkColor); transition: 243ms all ease-in-out transform 0.3s; }
+section.sProjects.bTheme .color:hover,
+section.sProjects.bTheme .color:focus
+{ color: var(--sLinkColorT); transition: 243ms all ease-in-out; transform: scale(1.02);}
 
-section.sProjects.bTheme article { background: var(--bBackgroundTable2);
-    border: 1px solid var(--sBorder); margin-bottom: 21px; padding: 9px; }
+section.sProjects.bTheme .color { background: var(--sBackground);
+    border: 1px solid var(--sBorder); margin-bottom: 21px; padding: 3px; }
 
 /* Footer */
 footer.bTheme { 
