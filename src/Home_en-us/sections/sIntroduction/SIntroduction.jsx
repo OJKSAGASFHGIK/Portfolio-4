@@ -32,9 +32,9 @@ function SIntroduction({theme = "sTheme"}){
                                 <p><span className="borderUwU">Front-End Developer</span><br/>
                                 <span>November 2022 - Present</span></p>
                                 • Networks and contact:<br/>
-                                <a href="https://github.com/OJKSAGASFHGIK" target="_blank">Git</a> - <a href="https://www.linkedin.com/in/marcus-guilherme-sc3/" target="_blank">Linkedin</a><br/>
+                                <a href="https://github.com/OJKSAGASFHGIK" target="_blank">Git</a> - <a href="https://www.linkedin.com/in/greque-chan/" target="_blank">Linkedin</a><br/>
                                 
-                                <a id='id1Show-Email' onClick={f1CopyEmail} style={{cursor: "pointer"}}>mgsouzacampos@hotmail.com</a>
+                                <a id='id1Show-Email' onClick={f1CopyEmail} style={{cursor: "pointer"}}>greque_chan@hotmail.com</a>
                                 {a1Copied && <span ><br/>➟ E-mail copiado</span>}<br/>
                                 
                                 <div className='d-flex align-items-center'>
