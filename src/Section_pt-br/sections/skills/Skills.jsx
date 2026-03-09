@@ -15,19 +15,16 @@ function Skills({theme="sTheme", myId="idSkills"}){
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>HTML, CSS, JS</td>
+                                    <td>React, Next</td>
                                 </tr>
                                 <tr>
-                                    <td>React.JS, Bootstrap</td>
+                                    <td>Tailwind CSS, Bootstrap, CSS</td>
                                 </tr>
                                 <tr>
-                                    <td>PHP</td>
+                                    <td>HTML, JavaScript, TypeScript, PHP, Python</td>
                                 </tr>
                                 <tr>
                                     <td>MySQL</td>
-                                </tr>
-                                <tr>
-                                    <td>Python</td>
                                 </tr>
                                 <tr>
                                     <td>Microsoft Office</td>
@@ -42,7 +39,7 @@ function Skills({theme="sTheme", myId="idSkills"}){
                         </table>
                     </div>
                     <div className='col-12 col-md-6'>
-                        <table className=''>
+                        {/* <table className=''>
                             <thead>
                                 <tr>
                                     <th>✢ Extra:</th>
@@ -53,23 +50,7 @@ function Skills({theme="sTheme", myId="idSkills"}){
                                     <td>Conceitos de POO e lógicas fundamentais</td>
                                 </tr>
                             </tbody>
-                            {/*<caption>⟳</caption>
-                            <thead>
-                                <tr>
-                                    <th>Atualmente estudando</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>JavaScript</td>
-                                </tr>
-                            </tbody>
-                            <tfoot>
-                                <tr>
-                                    <td></td>
-                                </tr>
-                            </tfoot>*/}
-                        </table>
+                        </table> */}
                         <table className=''>
                             <thead>
                                 <tr>
@@ -78,10 +59,10 @@ function Skills({theme="sTheme", myId="idSkills"}){
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Português nativo</td>
+                                    <td>Português Nativo</td>
                                 </tr>
                                 <tr>
-                                    <td>Inglês intermediário-avançado</td>
+                                    <td>Inglês Avançado</td>
                                 </tr>
                             </tbody>
                         </table>

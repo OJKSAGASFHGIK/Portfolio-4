@@ -12,13 +12,13 @@ function SProjects({theme="sTheme", myId="idProjects"}){
                         <p className='small'><em>Tópicos voltados a utilidade e didática</em></p>
                     </div>
                     <div className='row row-cols-md-3 row-cols-sm-2 row-cols-1' >
-                        <a href='https://gre-commerce.vercel.app/' target='_blank' className="col">
+                        <a href='https://next-ts-my-sql-bookstore.vercel.app/' target='_blank' className="col">
                             <div className="card color" style={{cursor:"pointer"}}>
                             <div className="">
                             <img className="card-img-top" src={site1} alt="Card image cap"/>
                             <div className="card-body">
-                                <h5 className="card-title">Gre-Commerce</h5>
-                                <p className="card-text">Site de E-Commerce</p>
+                                <h5 className="card-title">Loja de Livros</h5>
+                                <p className="card-text">Projeto simples com MySQL, Node e Next.ts</p>
                             </div>
                             </div>
                             </div>
