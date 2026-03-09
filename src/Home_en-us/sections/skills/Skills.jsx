@@ -15,16 +15,13 @@ function Skills({theme="sTheme", myId="idSkills"}){
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>React, Next</td>
+                                    <td>React, Next.js, Tailwind CSS, Bootstrap</td>
                                 </tr>
                                 <tr>
-                                    <td>Tailwind CSS, Bootstrap, CSS</td>
+                                    <td>HTML, CSS, JavaScript, TypeScript, PHP, Python</td>
                                 </tr>
                                 <tr>
-                                    <td>HTML, JavaScript, TypeScript, PHP, Python</td>
-                                </tr>
-                                <tr>
-                                    <td>MySQL</td>
+                                    <td>Node.js, MySQL, NoSQL</td>
                                 </tr>
                                 <tr>
                                     <td>Microsoft Office</td>
