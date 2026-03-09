@@ -44,7 +44,7 @@ function SIntroduction({theme = "sTheme"}){
 
                                 • Pursuing Higher Education in:<br/>
                                 Analysis and Systems Development<br/>
-                                4¹ período / Agosto 2023 - Dezembro 2025<br/>
+                                4¹ period / July 2023 - June 2026<br/>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ function SIntroduction({theme = "sTheme"}){
 
                         • Pursuing Higher Education in:<br/>
                         Analysis and Systems Development<br/>
-                        4¹ período / Agosto 2023 - Dezembro 2025<br/>
+                        4¹ period / July 2023 - June 2026<br/>
                     </div>
                 </div>
             </section>

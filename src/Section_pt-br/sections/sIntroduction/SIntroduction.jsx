@@ -43,7 +43,7 @@ function SIntroduction({theme = "sTheme"}){
 
                                 • Cursando Ensino Superior em:<br/>
                                 Análise e Desenvolvimento de Sistemas<br/>
-                                4¹ período / Agosto 2023 - Dezembro 2025<br/>
+                                4¹ período / Julho 2023 - Junho 2026<br/>
                         </div>
                     </div>
                     <div className="col-6">
@@ -67,7 +67,7 @@ function SIntroduction({theme = "sTheme"}){
                             
                             • Cursando Ensino Superior em:<br/>
                             Análise e Desenvolvimento de Sistemas<br/>
-                            4¹ período / Agosto 2023 - Dezembro 2025<br/>
+                            4¹ período / Julho 2023 - Junho 2026<br/>
                     </div>
                 </div>
             </section>
